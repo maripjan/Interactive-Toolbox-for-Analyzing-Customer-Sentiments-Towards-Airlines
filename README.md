@@ -29,15 +29,15 @@
 <b>Note:</b> They were taken using Windows Snipping Tool, so the quality might not be the best. But at least this gives an overall picture of how the dashboard app looks like.
 
 ![](screenshots/img1.JPG)
-<hr>
+<br/>
 ![](screenshots/img2.JPG)
-<hr>
+<br/>
 ![](screenshots/img3.JPG)
-<hr>
+<br/>
 ![](screenshots/img4.JPG)
-<hr>
+<br/>
 ![](screenshots/img5.JPG)
-<hr>
+<br/>
 ![](screenshots/img6.JPG)
-<hr>
+<br/>
 ![](screenshots/img7.JPG)
