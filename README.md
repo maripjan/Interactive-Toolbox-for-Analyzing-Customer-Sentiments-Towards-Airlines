@@ -3,6 +3,7 @@
 **Comments regarding app.py:**
 
 1. This application is an interactive dashboard which uses Twitter data to analyze sentiments of U.S. cusomters towards major airline firms. 
+The app was built using Python's <a href="https://streamlit.io"> Streamlit </a> Web Framework. </p>
 
   <p>
     Dataset that I used here is an open-source data and is freely available at 
