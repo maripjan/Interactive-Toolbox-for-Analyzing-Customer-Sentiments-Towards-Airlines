@@ -2,7 +2,11 @@
 
 <br/>
 
-#### Background info: This idea of working through this project, as well as associated practical guidelines were taken thanks to Coursera's [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) for which I earned a certificate of accomplishement for completing it.
+#### Background info: 
+
+This idea of working through this project, as well as associated practical guidelines were taken thanks to Coursera's [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) for which I earned a certificate of accomplishement for completing it.
+
+<br/>
 
 **Comments regarding app.py:**
 
