@@ -1,5 +1,8 @@
 # Interactive-Toolbox-for-Analyzing-Customer-Sentiments-Towards-Airlines
 
+<br/>
+#### Background info: This idea of working through this project, as well as associated practical guidelines were taken thanks to Coursera's [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) for which I earned a certificate of accomplishement for completing it.
+
 **Comments regarding app.py:**
 
 1. This application is an interactive dashboard which uses Twitter data to analyze sentiments of U.S. cusomters towards major airline firms. 
